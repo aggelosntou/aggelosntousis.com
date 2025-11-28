@@ -22,7 +22,8 @@ jobs:
 
       - name: Build
         env:
-          VITE_BASE: '/deepmind-dreams/'
+          # Use repository name as the base path for GitHub Pages
+          VITE_BASE: '/aggelosntousis.com/'
         run: npm run build
 
       - name: Deploy to GitHub Pages
