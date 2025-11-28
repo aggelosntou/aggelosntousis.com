@@ -22,8 +22,8 @@ jobs:
 
       - name: Build
         env:
-          # Root base path for custom domain hosting
-          VITE_BASE: '/'
+          # Use repository name as the base path for GitHub Pages
+          VITE_BASE: '/aggelosntousis.com/'
         run: npm run build
 
       - name: Add SPA fallback
