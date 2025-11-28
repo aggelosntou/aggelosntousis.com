@@ -72,7 +72,7 @@ const Index = () => {
                     May 2024
                   </td>
                   <td className="py-3">
-                    Won first place in regional mathematics olympiad
+                    Won first place in regional mathematics olympiad at Kato Patissia. Beat Alban and Flavio to secure first place and a free coffee from Il Toto.
                   </td>
                 </tr>
                 <tr className="border-t border-border">
@@ -88,7 +88,7 @@ const Index = () => {
                     Sep 2023
                   </td>
                   <td className="py-3">
-                    Completed coursework in Linear Algebra, Differential Equations, and Statistical Learning
+                    Trained by the Streets. Mathematics come second.
                   </td>
                 </tr>
               </tbody>
